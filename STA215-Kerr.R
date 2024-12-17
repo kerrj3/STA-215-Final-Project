@@ -1,8 +1,8 @@
  ## Project:  STA 215, Fall 2024, Final Project
- # Located:   Kline TCNJ Google Drive
- # File Name: template
- # Date:      2024_1_17
- # Who:       Zachary D. Kline
+ # Located:   STA215-Kerr.R
+ # File Name: code
+ # Date:      12/17/24
+ # Who:       James M. Kerr
  
  
  ## Load packages
